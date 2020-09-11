@@ -1,0 +1,28 @@
+{
+  "name": "mono-icons",
+  "version": "1.0.0",
+  "description": "The mono icon font as a separate package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf dist",
+    "icon-font": "icon-font-generator svg/*.svg -o iconfont",
+    "prepare": "npm run clean && mkdirp iconfont && npm run icon-font",
+    "start": "npm run clean && mkdirp iconfont && npm run icon-font"
+  },
+  "keywords": [],
+  "author": "Mono",
+  "license": "MIT",
+  "devDependencies": {
+    "icon-font-generator": "^2.1.10"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mono-company/mono-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mono-company/mono-icons/issues"
+  },
+  "homepage": "https://github.com/mono-company/mono-icons#readme"
+}
