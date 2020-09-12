@@ -1,5 +1,5 @@
 The MIT License (MIT)
-Copyright (c) <2020> <Mono Company BV>
+Copyright 2020 Mono Company BV
 
 This license pertains to the Mono Icon Font, the software, as described on http://icons.mono.company, NOT to any content created with the Mono Icon Font.
 
