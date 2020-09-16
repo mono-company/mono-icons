@@ -23,7 +23,7 @@ import 'mono-icons/iconfont/icons.css'
 #### CDN
 Copy the following code and add it to the `head` tag of your html document.
 ```html
-<link href="https://unpkg.com/mono-icons@1.0.0/iconfont/icons.css" rel="stylesheet">
+<link href="https://unpkg.com/mono-icons@1.0.1/iconfont/icons.css" rel="stylesheet">
 ```
 
 #### Manually

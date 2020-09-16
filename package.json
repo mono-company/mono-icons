@@ -1,6 +1,6 @@
 {
   "name": "mono-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The mono icon font as a separate package.",
   "main": "index.js",
   "scripts": {
