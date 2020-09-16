@@ -28,12 +28,12 @@ Copy the following code and add it to the `head` tag of your html document.
 Download icons.css file, add it to the `head` tag of your html document.
 
 #### Use
-Add icon with the correct classname. The classname consists of "icon+iconName". You can find the correct icon names at https://icons.mono.company/.
+Add icon with the correct classname. The classname consists of "mi-iconName". You can find the correct icon names at https://icons.mono.company/.
 
 ```html
-<i class="icon-add"/>
+<i class="mi-add"/>
 ```
 
-## License & attribution  
+## License & attribution
 
 Mono icons are MIT licensed. Use them freely - an attribution link to http://icons.mono.company/ would be nice but is not necessary.
