@@ -34,8 +34,6 @@ Add icon with the correct classname. The classname consists of "icon+iconName". 
 <i class="icon-add"/>
 ```
 
+## License & attribution  
 
-
-
-
-
+Mono icons are MIT licensed. Use them freely - an attribution link to http://icons.mono.company/ would be nice but is not necessary.
