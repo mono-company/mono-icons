@@ -13,8 +13,8 @@
   "keywords": [
     "icons",
     "svg",
-    "icon set",
-  ]
+    "icon set"
+  ],
   "author": "Mono",
   "license": "MIT",
   "devDependencies": {
