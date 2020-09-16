@@ -16,14 +16,12 @@ Designers can make a Figma duplicate or click the copy SVG button to copy and pa
 ```shell
 npm install mono-icons
 ```
-```shell
-import 'mono-icons/iconfont/icons.css'
-```
+Import the icons.css file.
 
 #### CDN
 Copy the following code and add it to the `head` tag of your html document.
 ```html
-<link href="https://unpkg.com/mono-icons@1.0.1/iconfont/icons.css" rel="stylesheet">
+<link href="https://unpkg.com/mono-icons@latest/iconfont/icons.css" rel="stylesheet">
 ```
 
 #### Manually
