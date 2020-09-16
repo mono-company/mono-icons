@@ -21,13 +21,13 @@ import 'mono-icons/iconfont/icons.css'
 ```
 
 #### CDN
-Copy the following code and add it to the <head> tag of your html document.
+Copy the following code and add it to the `head` tag of your html document.
 ```html
 <link href="https://unpkg.com/mono-icons@1.0.0/iconfont/icons.css" rel="stylesheet">
 ```
 
 #### Manually
-Download icons.css file, add it to the <head> tag of your html document.
+Download icons.css file, add it to the `head` tag of your html document.
 
 #### Use
 Add icon with the correct classname. The classname consists of "icon+iconName". You can find the correct icon names at https://icons.mono.company/.
