@@ -10,7 +10,11 @@
     "prepare": "npm run clean && mkdirp iconfont && npm run icon-font",
     "start": "npm run clean && mkdirp iconfont && npm run icon-font"
   },
-  "keywords": [],
+  "keywords": [
+    "icons",
+    "svg",
+    "icon set",
+  ]
   "author": "Mono",
   "license": "MIT",
   "devDependencies": {
