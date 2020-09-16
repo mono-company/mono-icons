@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?aa6423ab5429c3cae667b00292b56b73?#iefix") format("embedded-opentype"),
-url("./icons.woff2?aa6423ab5429c3cae667b00292b56b73") format("woff2"),
-url("./icons.woff?aa6423ab5429c3cae667b00292b56b73") format("woff"),
-url("./icons.ttf?aa6423ab5429c3cae667b00292b56b73") format("truetype"),
-url("./icons.svg?aa6423ab5429c3cae667b00292b56b73#icons") format("svg");
+    src: url("./icons.eot?e912d165ad144f77fcf04431039f3fb2?#iefix") format("embedded-opentype"),
+url("./icons.woff2?e912d165ad144f77fcf04431039f3fb2") format("woff2"),
+url("./icons.woff?e912d165ad144f77fcf04431039f3fb2") format("woff"),
+url("./icons.ttf?e912d165ad144f77fcf04431039f3fb2") format("truetype"),
+url("./icons.svg?e912d165ad144f77fcf04431039f3fb2#icons") format("svg");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -237,7 +237,7 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-favorite:before {
     content: "\f149";
 }
-.icon-filter-alt:before {
+.icon-filter-1:before {
     content: "\f14a";
 }
 .icon-filter:before {
@@ -297,117 +297,132 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 .icon-map:before {
     content: "\f15d";
 }
-.icon-menu:before {
+.icon-megaphone:before {
     content: "\f15e";
 }
-.icon-message-alt:before {
+.icon-menu:before {
     content: "\f15f";
 }
-.icon-message:before {
+.icon-message-alt:before {
     content: "\f160";
 }
-.icon-mobile:before {
+.icon-message:before {
     content: "\f161";
 }
-.icon-moon:before {
+.icon-mobile:before {
     content: "\f162";
 }
-.icon-notification:before {
+.icon-moon:before {
     content: "\f163";
 }
-.icon-options-horizontal:before {
+.icon-notification-off:before {
     content: "\f164";
 }
-.icon-options-vertical:before {
+.icon-notification:before {
     content: "\f165";
 }
-.icon-pause:before {
+.icon-options-horizontal:before {
     content: "\f166";
 }
-.icon-percentage:before {
+.icon-options-vertical:before {
     content: "\f167";
 }
-.icon-play:before {
+.icon-pause:before {
     content: "\f168";
 }
-.icon-refresh:before {
+.icon-percentage:before {
     content: "\f169";
 }
-.icon-remove:before {
+.icon-pin:before {
     content: "\f16a";
 }
-.icon-search:before {
+.icon-play:before {
     content: "\f16b";
 }
-.icon-select:before {
+.icon-refresh:before {
     content: "\f16c";
 }
-.icon-send:before {
+.icon-remove:before {
     content: "\f16d";
 }
-.icon-settings:before {
+.icon-search:before {
     content: "\f16e";
 }
-.icon-share:before {
+.icon-select:before {
     content: "\f16f";
 }
-.icon-sort:before {
+.icon-send:before {
     content: "\f170";
 }
-.icon-speakers:before {
+.icon-settings:before {
     content: "\f171";
 }
-.icon-stop:before {
+.icon-share:before {
     content: "\f172";
 }
-.icon-sun:before {
+.icon-shopping-cart-add:before {
     content: "\f173";
 }
-.icon-switch:before {
+.icon-shopping-cart:before {
     content: "\f174";
 }
-.icon-table:before {
+.icon-sort:before {
     content: "\f175";
 }
-.icon-tablet:before {
+.icon-speakers:before {
     content: "\f176";
 }
-.icon-tag:before {
+.icon-stop:before {
     content: "\f177";
 }
-.icon-undo:before {
+.icon-sun:before {
     content: "\f178";
 }
-.icon-unlock:before {
+.icon-switch:before {
     content: "\f179";
 }
-.icon-user-add:before {
+.icon-table:before {
     content: "\f17a";
 }
-.icon-user-check:before {
+.icon-tablet:before {
     content: "\f17b";
 }
-.icon-user-remove:before {
+.icon-tag:before {
     content: "\f17c";
 }
-.icon-user:before {
+.icon-undo:before {
     content: "\f17d";
 }
-.icon-users:before {
+.icon-unlock:before {
     content: "\f17e";
 }
-.icon-volume-off:before {
+.icon-user-add:before {
     content: "\f17f";
 }
-.icon-volume-up:before {
+.icon-user-check:before {
     content: "\f180";
 }
-.icon-warning:before {
+.icon-user-remove:before {
     content: "\f181";
 }
-.icon-zoom-in:before {
+.icon-user:before {
     content: "\f182";
 }
-.icon-zoom-out:before {
+.icon-users:before {
     content: "\f183";
+}
+.icon-volume-off:before {
+    content: "\f184";
+}
+.icon-volume-up:before {
+    content: "\f185";
+}
+.icon-warning:before {
+    content: "\f186";
+}
+.icon-zoom-in:before {
+    content: "\f187";
+}
+.icon-zoom-out:before {
+    content: "\f188";
 }
