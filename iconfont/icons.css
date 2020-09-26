@@ -7,7 +7,7 @@ url("./icons.ttf?3b3fbad20e4957d4098f3155ed5b78ed") format("truetype"),
 url("./icons.svg?3b3fbad20e4957d4098f3155ed5b78ed#icons") format("svg");
 }
 
-[class^="mi-"]::before, [class*=" mi-"]::before {
+[class*="mi-"]::before {
     font-family: icons !important;
     font-style: normal;
     font-weight: normal !important;
