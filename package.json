@@ -1,12 +1,12 @@
 {
   "name": "mono-icons",
-  "version": "1.0.4",
-  "description": "The mono icon font as a separate package.",
+  "version": "1.2.1",
+  "description": "The Mono icon font as a separate package.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rimraf dist",
-    "icon-font": "icon-font-generator svg/*.svg -o iconfont -p mi --height 1000",
+    "icon-font": "icon-font-generator svg/*.svg -o iconfont -p mi --height 1000  --descent 128",
     "prepare": "npm run clean && mkdirp iconfont && npm run icon-font",
     "start": "npm run clean && mkdirp iconfont && npm run icon-font"
   },
