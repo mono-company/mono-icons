@@ -21,7 +21,7 @@ Import the icons.css file.
 #### CDN
 Copy the following code and add it to the `head` tag of your html document.
 ```html
-<link href="https://unpkg.com/mono-icons@1.0.5/iconfont/icons.css" rel="stylesheet">
+<link href="https://unpkg.com/mono-icons@1.2.1/iconfont/icons.css" rel="stylesheet">
 ```
 
 #### Manually
