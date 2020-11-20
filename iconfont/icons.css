@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?cf1b97f20d9c81bc21082aec59ebb732?#iefix") format("embedded-opentype"),
-url("./icons.woff2?cf1b97f20d9c81bc21082aec59ebb732") format("woff2"),
-url("./icons.woff?cf1b97f20d9c81bc21082aec59ebb732") format("woff"),
-url("./icons.ttf?cf1b97f20d9c81bc21082aec59ebb732") format("truetype"),
-url("./icons.svg?cf1b97f20d9c81bc21082aec59ebb732#icons") format("svg");
+    src: url("./icons.eot?e98e638b7ea3819b6c06d137f71c1676?#iefix") format("embedded-opentype"),
+url("./icons.woff2?e98e638b7ea3819b6c06d137f71c1676") format("woff2"),
+url("./icons.woff?e98e638b7ea3819b6c06d137f71c1676") format("woff"),
+url("./icons.ttf?e98e638b7ea3819b6c06d137f71c1676") format("truetype"),
+url("./icons.svg?e98e638b7ea3819b6c06d137f71c1676#icons") format("svg");
 }
 
 i[class^="mi-"]:before, i[class*=" mi-"]:before {
@@ -312,156 +312,150 @@ i[class^="mi-"]:before, i[class*=" mi-"]:before {
 .mi-map:before {
     content: "\f162";
 }
-.mi-meemoo:before {
+.mi-megaphone:before {
     content: "\f163";
 }
-.mi-megaphone:before {
+.mi-menu:before {
     content: "\f164";
 }
-.mi-menu:before {
+.mi-message-alt:before {
     content: "\f165";
 }
-.mi-message-alt:before {
+.mi-message:before {
     content: "\f166";
 }
-.mi-message:before {
+.mi-mobile:before {
     content: "\f167";
 }
-.mi-mobile:before {
+.mi-moon:before {
     content: "\f168";
 }
-.mi-mono-logo:before {
+.mi-next:before {
     content: "\f169";
 }
-.mi-moon:before {
+.mi-notification-off:before {
     content: "\f16a";
 }
-.mi-next:before {
+.mi-notification:before {
     content: "\f16b";
 }
-.mi-notification-off:before {
+.mi-options-horizontal:before {
     content: "\f16c";
 }
-.mi-notification:before {
+.mi-options-vertical:before {
     content: "\f16d";
 }
-.mi-options-horizontal:before {
+.mi-pause:before {
     content: "\f16e";
 }
-.mi-options-vertical:before {
+.mi-percentage:before {
     content: "\f16f";
 }
-.mi-pause:before {
+.mi-pin:before {
     content: "\f170";
 }
-.mi-percentage:before {
+.mi-play:before {
     content: "\f171";
 }
-.mi-pin:before {
+.mi-previous:before {
     content: "\f172";
 }
-.mi-play:before {
+.mi-refresh:before {
     content: "\f173";
 }
-.mi-previous:before {
+.mi-remove:before {
     content: "\f174";
 }
-.mi-refresh:before {
+.mi-repeat:before {
     content: "\f175";
 }
-.mi-remove:before {
+.mi-search:before {
     content: "\f176";
 }
-.mi-repeat:before {
+.mi-select:before {
     content: "\f177";
 }
-.mi-search:before {
+.mi-send:before {
     content: "\f178";
 }
-.mi-select:before {
+.mi-settings:before {
     content: "\f179";
 }
-.mi-send:before {
+.mi-share:before {
     content: "\f17a";
 }
-.mi-settings:before {
+.mi-shopping-cart-add:before {
     content: "\f17b";
 }
-.mi-share:before {
+.mi-shopping-cart:before {
     content: "\f17c";
 }
-.mi-shopping-cart-add:before {
+.mi-shuffle:before {
     content: "\f17d";
 }
-.mi-shopping-cart:before {
+.mi-sort:before {
     content: "\f17e";
 }
-.mi-shuffle:before {
+.mi-speakers:before {
     content: "\f17f";
 }
-.mi-sort:before {
+.mi-stop:before {
     content: "\f180";
 }
-.mi-speakers:before {
+.mi-sun:before {
     content: "\f181";
 }
-.mi-stop:before {
+.mi-sunrise:before {
     content: "\f182";
 }
-.mi-sun:before {
+.mi-switch:before {
     content: "\f183";
 }
-.mi-sunrise:before {
+.mi-table:before {
     content: "\f184";
 }
-.mi-switch:before {
+.mi-tablet:before {
     content: "\f185";
 }
-.mi-table:before {
+.mi-tag:before {
     content: "\f186";
 }
-.mi-tablet:before {
+.mi-undo:before {
     content: "\f187";
 }
-.mi-tag:before {
+.mi-unlock:before {
     content: "\f188";
 }
-.mi-undo:before {
+.mi-user-add:before {
     content: "\f189";
 }
-.mi-unlock:before {
+.mi-user-check:before {
     content: "\f18a";
 }
-.mi-user-add:before {
+.mi-user-remove:before {
     content: "\f18b";
 }
-.mi-user-check:before {
+.mi-user:before {
     content: "\f18c";
 }
-.mi-user-remove:before {
+.mi-users:before {
     content: "\f18d";
 }
-.mi-user:before {
+.mi-volume-off:before {
     content: "\f18e";
 }
-.mi-users:before {
+.mi-volume-up:before {
     content: "\f18f";
 }
-.mi-volume-off:before {
+.mi-warning:before {
     content: "\f190";
 }
-.mi-volume-up:before {
+.mi-webcam:before {
     content: "\f191";
 }
-.mi-warning:before {
+.mi-zoom-in:before {
     content: "\f192";
 }
-.mi-webcam:before {
-    content: "\f193";
-}
-.mi-zoom-in:before {
-    content: "\f194";
-}
 .mi-zoom-out:before {
-    content: "\f195";
+    content: "\f193";
 }
