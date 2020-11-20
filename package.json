@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rimraf dist",
+    "optimize": "svgo -f svg --config .svgo.yml",
     "icon-font": "icon-font-generator svg/*.svg -o iconfont -p mi --height 1000  --descent 128",
     "prepare": "npm run clean && mkdirp iconfont && npm run icon-font",
     "start": "npm run clean && mkdirp iconfont && npm run icon-font"
@@ -18,7 +19,8 @@
   "author": "Mono",
   "license": "MIT",
   "devDependencies": {
-    "icon-font-generator": "^2.1.10"
+    "icon-font-generator": "^2.1.10",
+    "svgo": "^1.3.2"
   },
   "dependencies": {},
   "repository": {
