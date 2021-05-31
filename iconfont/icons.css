@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icons";
-    src: url("./icons.eot?08f6cf27207778caa7c0cbc046195138?#iefix") format("embedded-opentype"),
-url("./icons.woff2?08f6cf27207778caa7c0cbc046195138") format("woff2"),
-url("./icons.woff?08f6cf27207778caa7c0cbc046195138") format("woff"),
-url("./icons.ttf?08f6cf27207778caa7c0cbc046195138") format("truetype"),
-url("./icons.svg?08f6cf27207778caa7c0cbc046195138#icons") format("svg");
+    src: url("./icons.eot?441e89e64206c71748e6f20bc8b51d95?#iefix") format("embedded-opentype"),
+url("./icons.woff2?441e89e64206c71748e6f20bc8b51d95") format("woff2"),
+url("./icons.woff?441e89e64206c71748e6f20bc8b51d95") format("woff"),
+url("./icons.ttf?441e89e64206c71748e6f20bc8b51d95") format("truetype"),
+url("./icons.svg?441e89e64206c71748e6f20bc8b51d95#icons") format("svg");
 }
 
 i[class^="mi-"]:before, i[class*=" mi-"]:before {
