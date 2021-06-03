@@ -36,4 +36,4 @@ Add icon with the correct classname. The classname consists of "mi-iconName". Yo
 
 ## License & attribution
 
-Mono icons are MIT licensed. Use them freely - an attribution link to http://icons.mono.company/ would be nice but is not necessary.
+Mono icons are MIT licensed. Use them freely - an attribution link to https://icons.mono.company would be nice but is not necessary.
